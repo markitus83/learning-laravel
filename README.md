@@ -1,5 +1,5 @@
 # Learning Laravel
-Reopository to learn Laravel 5.5
+Repository to learn Laravel 5.5
 
 This project have the main goal to learn, step by step the PHP framework know as Laravel.
 
